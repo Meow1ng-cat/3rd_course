@@ -1,0 +1,15 @@
+M:\Stud\3rd_course\Lab_7\bin\Debug\net8.0\Lab_7.exe
+M:\Stud\3rd_course\Lab_7\bin\Debug\net8.0\Lab_7.deps.json
+M:\Stud\3rd_course\Lab_7\bin\Debug\net8.0\Lab_7.runtimeconfig.json
+M:\Stud\3rd_course\Lab_7\bin\Debug\net8.0\Lab_7.dll
+M:\Stud\3rd_course\Lab_7\bin\Debug\net8.0\Lab_7.pdb
+M:\Stud\3rd_course\Lab_7\obj\Debug\net8.0\Lab_7.GeneratedMSBuildEditorConfig.editorconfig
+M:\Stud\3rd_course\Lab_7\obj\Debug\net8.0\Lab_7.AssemblyInfoInputs.cache
+M:\Stud\3rd_course\Lab_7\obj\Debug\net8.0\Lab_7.AssemblyInfo.cs
+M:\Stud\3rd_course\Lab_7\obj\Debug\net8.0\Lab_7.csproj.CoreCompileInputs.cache
+M:\Stud\3rd_course\Lab_7\obj\Debug\net8.0\Lab_7.sourcelink.json
+M:\Stud\3rd_course\Lab_7\obj\Debug\net8.0\Lab_7.dll
+M:\Stud\3rd_course\Lab_7\obj\Debug\net8.0\refint\Lab_7.dll
+M:\Stud\3rd_course\Lab_7\obj\Debug\net8.0\Lab_7.pdb
+M:\Stud\3rd_course\Lab_7\obj\Debug\net8.0\Lab_7.genruntimeconfig.cache
+M:\Stud\3rd_course\Lab_7\obj\Debug\net8.0\ref\Lab_7.dll
